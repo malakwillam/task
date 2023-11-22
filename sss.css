@@ -1,0 +1,111 @@
+.project .header .navbar label button {
+    display: inline-block;
+    margin: 0 20px;
+    font-size: 20px;
+}
+.button{
+    color: #410404;
+    background-color: #530808;
+}
+.project .header .navbar {
+    background-color: #700404;
+    color: #fff;
+    width: 100%;
+    padding: 20px 60px;
+}
+.back {
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    background-image: url(background.png);
+    
+}
+.back img{
+    width: 100px;
+    height: 100px;
+}
+.back button {
+    width: 10%;
+    height: 10px;
+    border-radius: 0px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    margin: 100px ;
+    padding: 20px;
+    
+}
+h1 {
+    text-align: center;
+}
+.table .tr.td{
+    width: 10%;
+    height: 10px;
+    padding: 10;
+    border-radius: 10%;
+    text-align: center;
+}
+span{background-color: #7e0505;
+}
+
+table{background-color: rgb(49, 49, 51);
+border-spacing: 10px;
+width: 100%;
+text-align: center;
+
+}
+thead,td{background-color: rgb(57, 58, 60);
+border-radius: 10PX;
+}
+
+th{background-color: rgb(206, 215, 232);}
+td{color: rgb(252, 252, 246);}
+
+span{color: rgb(251, 246, 246);
+background-color: rgb(128, 58, 0);
+border-radius: 5PX;
+}
+    a.ul.li{display:inline-block; 
+  padding: 10PX;
+  width: 10px;
+  }
+  h1{text-align: center;}
+  button{text-align: center;
+  background-color: brown;
+  padding: 5px;}
+
+  .banner {
+    width: 100%;
+    text-align: center;
+    background-image: url(back2.jpg);
+}
+.product .product-one {
+    background-color :bisque;
+    color: #040404;
+    width: 20%;
+    border: 20px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    display: inline-block;
+    margin: 30px 
+}
+.h1{color:gold;}
+.product .product-one img {
+    width: 75%;
+    height: 150px;
+}
+  .footer {
+    background-color: #060101;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 20px;
+    margin-top: 30px;}
+
